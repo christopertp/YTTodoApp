@@ -1,0 +1,6 @@
+module Pods_YTTodoApp_YTTodoAppTests {
+  umbrella header "Pods-YTTodoApp-YTTodoAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
